@@ -1,7 +1,8 @@
 # un cambio aqui tambien
 
 
-def suma(a, b):
+def suma(a: int, b: int):
+
     return a + b
 
 
