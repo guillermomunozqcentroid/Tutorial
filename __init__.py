@@ -1,7 +1,7 @@
 # un cambio aqui tambien
 
 
-def suma(a, b):
+def suma(a: float, b: float) -> float:
     return a + b
 
 
