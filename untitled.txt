@@ -1,4 +1,0 @@
-print("Hi")
-pritn("Hecho desde mi ordenador")
-
-# un cambio aqui
